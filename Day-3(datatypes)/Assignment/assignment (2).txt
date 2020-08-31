@@ -1,0 +1,9 @@
+1. Write a Python program to count the number of characters (character frequency) in a string
+
+2. Write a Python program demonstrating all the string methods that were discussed in day1 session.
+
+3. Write a Python program demonstrating all the list methods that were discussed in day1 session.
+
+4. Write a Python program demonstrating all the dictionary methods that were discussed in day1 session.
+
+5. Write a Python program demonstrating all the set methods that were discussed in day1 session.
